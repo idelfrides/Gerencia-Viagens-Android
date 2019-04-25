@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="C:\Users\lab_simul_01\AndroidStudioProjects\Gerencia_viagens\app\build\intermediates\exploded-aar\com.android.support\design\23.2.1\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="72961d8b453b46e277702f18de9d210bc019e36e">
+        <dex dex="C:\Users\lab_simul_01\AndroidStudioProjects\Gerencia_viagens\app\build\intermediates\pre-dexed\debug\com.android.support-design-23.2.1_649f8b2e9211aa71bab33e56c1f22e8379794901.jar" />
+    </item>
+    <item
+        jar="C:\Users\lab_simul_01\AndroidStudioProjects\Gerencia_viagens\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\23.2.1\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="3469cb457f10f74c28cbc05f069b6c894f6cbdd0">
+        <dex dex="C:\Users\lab_simul_01\AndroidStudioProjects\Gerencia_viagens\app\build\intermediates\pre-dexed\debug\com.android.support-animated-vector-drawable-23.2.1_bec88af48284b274e78a9acf8fd2704d38b36c46.jar" />
+    </item>
+    <item
+        jar="C:\Users\lab_simul_01\AndroidStudioProjects\Gerencia_viagens\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.2.1\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="e4d0cbb0b999604b349062f0214a0a228a7fd151">
+        <dex dex="C:\Users\lab_simul_01\AndroidStudioProjects\Gerencia_viagens\app\build\intermediates\pre-dexed\debug\com.android.support-appcompat-v7-23.2.1_a5b319e338c9e1fef06c1441f9d740437407ac2a.jar" />
+    </item>
+    <item
+        jar="C:\Users\lab_simul_01\AndroidStudioProjects\Gerencia_viagens\app\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\23.2.1\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="e3885783ff8926ed9e2fdcd16816c2e1e73e7aee">
+        <dex dex="C:\Users\lab_simul_01\AndroidStudioProjects\Gerencia_viagens\app\build\intermediates\pre-dexed\debug\com.android.support-recyclerview-v7-23.2.1_e73ff087659eeb6b2a44bfa5f840d778bafe3f08.jar" />
+    </item>
+    <item
+        jar="C:\Users\lab_simul_01\AndroidStudioProjects\Gerencia_viagens\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.2.1\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="3be474b1b21b31cf2fa93fe6bd641ae108d96452">
+        <dex dex="C:\Users\lab_simul_01\AndroidStudioProjects\Gerencia_viagens\app\build\intermediates\pre-dexed\debug\com.android.support-support-v4-23.2.1_1b54f4ae043d9ca063040e67c67a836c06dc484f.jar" />
+    </item>
+    <item
+        jar="C:\Users\lab_simul_01\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\23.2.1\support-annotations-23.2.1.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="ccb693bc0774fcb637246f7360de25b4af7df318">
+        <dex dex="C:\Users\lab_simul_01\AndroidStudioProjects\Gerencia_viagens\app\build\intermediates\pre-dexed\debug\support-annotations-23.2.1_48122a5a65671dd27ebf4e8292f770ca9790621a.jar" />
+    </item>
+    <item
+        jar="C:\Users\lab_simul_01\AndroidStudioProjects\Gerencia_viagens\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.2.1\jars\libs\internal_impl-23.2.1.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="607a3d0b8013b4ccbfeb0b7cb293351994e021fb">
+        <dex dex="C:\Users\lab_simul_01\AndroidStudioProjects\Gerencia_viagens\app\build\intermediates\pre-dexed\debug\internal_impl-23.2.1_04b0a941a1f917ab31b3a3f2d7dc3758b8bd18ea.jar" />
+    </item>
+    <item
+        jar="C:\Users\lab_simul_01\AndroidStudioProjects\Gerencia_viagens\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\23.2.1\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="673d77a5bbddd766037f088e775df525c46407f0">
+        <dex dex="C:\Users\lab_simul_01\AndroidStudioProjects\Gerencia_viagens\app\build\intermediates\pre-dexed\debug\com.android.support-support-vector-drawable-23.2.1_7c59319ef215b04959c15552b009a2825f32ff91.jar" />
+    </item>
+
+</items>
